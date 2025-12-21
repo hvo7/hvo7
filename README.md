@@ -6,4 +6,4 @@ I'm interested in solving business problems using data-driven solutions using th
 
 My most recent project is: [Customer Retention Analysis](https://github.com/hvo7/Customer-Retention-Analysis)
 
-I am currently working on: [Credit Card Risk Assessment](https://github.com/hvo7/Credit-Card-Risk-Assessment)
+I am currently working on: [Plan Purchase Friction Tracker](https://github.com/hvo7/Plan-Purchase-Friction-Tracker)
